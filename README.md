@@ -1,4 +1,6 @@
-# 📂 Project Structure
+# Internal Request System - Business Analysis Case Study
+
+📂 Project Structure
 
 Explore each phase of the Business Analysis lifecycle:
 
@@ -9,7 +11,6 @@ Explore each phase of the Business Analysis lifecycle:
 -  [Testing](./5-Testing)
 -  [Evaluation](./6-Evaluation)
 
-Internal Request System - Business Analysis Case Study
 
 ## Project Summary
 
