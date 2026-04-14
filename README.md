@@ -1,6 +1,6 @@
 # Internal Request System - Business Analysis Case Study
 
-##Project Structure
+## Project Structure
 
 Explore each phase of the Business Analysis lifecycle:
 
