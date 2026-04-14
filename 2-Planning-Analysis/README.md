@@ -11,7 +11,7 @@ This phase focuses on understanding the current state, gathering and structuring
 * Analyzed current processes (AS-IS) and identified key pain points
 * Defined and structured business, stakeholder, functional, and non-functional requirements
 * Established end-to-end requirements traceability
-* Created Business → Stakeholder → Functional → NFR mapping
+* Created Business - Stakeholder - Functional - NFR mapping
 
 ---
 
