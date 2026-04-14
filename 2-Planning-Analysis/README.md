@@ -17,10 +17,10 @@ This phase focuses on understanding the current state, gathering and structuring
 
 ## Deliverables
 
-* Elicitation & Communication Plan → [View Sheet](Link)
-* Requirements & Traceability (BR, SR, FR, NFR) → [View Sheet](Link)
-* Current State Analysis → [View Document](Link)
-* Current State Flow → [View Diagram](Link)
+* Elicitation & Communication Plan - [View Sheet](https://docs.google.com/spreadsheets/d/1qXvmfMIY11Hd1QUBhcX1xuNw7rSPrKtQ6tVTYNQjdf0/edit?usp=sharing)
+* Requirements & Traceability (BR, SR, FR, NFR) - [View Sheet](https://docs.google.com/spreadsheets/d/154nLduUGugK5EDZolFAqD4EEjvxUmKNOovvY8wq8F7g/edit?usp=sharing)
+* Current State Analysis - [View Document](https://docs.google.com/document/d/1w_yTvtuZTs7NiVZ9wtQnXLjC6UEiKtDIkyEYZHXJ4Ec/edit?usp=sharing)
+* Current State Flow - [View Diagram](Link)
 
 ---
 
