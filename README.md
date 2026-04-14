@@ -97,7 +97,7 @@ A centralized internal request management system that:
 * Current State Analysis (AS-IS)
 * Business & Stakeholder Requirements
 * Requirements Traceability
-* Business → Stakeholder → Functional → NFR Mapping
+* Business - Stakeholder - Functional - NFR Mapping
 
 ---
 
