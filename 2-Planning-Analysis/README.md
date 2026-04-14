@@ -1,27 +1,29 @@
 # Planning & Analysis Phase
 
-This phase focuses on understanding the current state, gathering requirements, and defining a structured analysis approach.
+This phase focuses on understanding the current state, gathering and structuring requirements, and defining a clear analytical foundation for the proposed solution.
 
 ---
 
 ## Key Activities
 
-* Conducted elicitation sessions to gather business needs
-* Defined communication approach with stakeholders
-* Analyzed current processes and identified pain points
-* Defined business, stakeholder, and system requirements
-* Established requirement traceability
+* Conducted elicitation sessions to gather and clarify business needs
+* Defined stakeholder communication approach
+* Analyzed current processes (AS-IS) and identified key pain points
+* Defined and structured business, stakeholder, functional, and non-functional requirements
+* Established end-to-end requirements traceability
+* Created Business → Stakeholder → Functional → NFR mapping
 
 ---
 
 ## Deliverables
 
-* Elicitation & Communication Plan - [View Sheet](https://docs.google.com/spreadsheets/d/1qXvmfMIY11Hd1QUBhcX1xuNw7rSPrKtQ6tVTYNQjdf0/edit?usp=sharing)
-* Requirements & Traceability (Business, Stakeholder, Functional, Non-Functional) - [View Sheet](https://docs.google.com/spreadsheets/d/154nLduUGugK5EDZolFAqD4EEjvxUmKNOovvY8wq8F7g/edit?usp=sharing)
-* Current State Analysis - [View Document](Link)
+* Elicitation & Communication Plan → [View Sheet](Link)
+* Requirements & Traceability (BR, SR, FR, NFR) → [View Sheet](Link)
+* Current State Analysis → [View Document](Link)
+* Current State Flow → [View Diagram](Link)
 
 ---
 
 ## Outcome
 
-A well-structured and traceable set of requirements aligned with business needs, providing a solid foundation for solution design.
+A structured and traceable set of requirements, aligned with business needs and supported by clear visibility into the current process, enabling effective solution design.
