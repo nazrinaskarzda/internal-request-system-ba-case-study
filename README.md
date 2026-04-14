@@ -1,6 +1,6 @@
 # Internal Request System - Business Analysis Case Study
 
-📂 Project Structure
+##Project Structure
 
 Explore each phase of the Business Analysis lifecycle:
 
@@ -10,7 +10,6 @@ Explore each phase of the Business Analysis lifecycle:
 -  [Development](./4-Development)
 -  [Testing](./5-Testing)
 -  [Evaluation](./6-Evaluation)
-
 
 ## Project Summary
 
@@ -236,16 +235,3 @@ The repository structure and summaries are provided in English to ensure accessi
 ## Key Takeaway
 
 This project demonstrates the ability to perform end-to-end business analysis - from problem identification and stakeholder analysis to solution design, validation, and performance evaluation - using a structured approach aligned with real-world practices.
-
----
-
-## 📂 Project Structure
-
-Explore each phase of the Business Analysis lifecycle:
-
--  [Initiation](./1-Initiation)
--  [Planning & Analysis](./2-Planning-Analysis)
--  [Solution Design](./3-Solution-Design)
--  [Development](./4-Development)
--  [Testing](./5-Testing)
--  [Evaluation](./6-Evaluation)
