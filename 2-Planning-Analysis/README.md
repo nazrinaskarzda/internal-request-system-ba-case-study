@@ -6,12 +6,13 @@ Bu mərhələ mövcud vəziyyətin (current state) başa düşülməsi, tələbl
 
 ## Key Activities
 
-Elicitation sessiyaları keçirmək və business need-ləri dəqiqləşdirmək
-Stakeholder-lərlə kommunikasiya yanaşması müəyyənləşdirmək
-Mövcud prosesləri (AS-IS) analiz etmək və əsas pain point-lər müəyyən etmək
-Business, stakeholder, functional və non-functional tələbləri formalaşdırmaq və strukturlaşdırmaq
-End-to-end requirements traceability təmin etmək
-Business - Stakeholder - Functional - NFR mapping yaratmaq
+* Elicitation sessiyaları keçirmək və business need-ləri dəqiqləşdirmək
+* Stakeholder-lərlə kommunikasiya yanaşması müəyyənləşdirmək
+* Mövcud prosesləri (AS-IS) analiz etmək və əsas pain point-lər müəyyən etmək
+* Current State (AS-IS) və Future State (TO-BE) müqayisə edilərək əsas gap-lər müəyyən etmək
+* Business, stakeholder, functional və non-functional tələbləri formalaşdırmaq və strukturlaşdırmaq
+* End-to-end requirements traceability təmin etmək
+* Business - Stakeholder - Functional - NFR mapping yaratmaq
 
 ---
 
@@ -21,6 +22,7 @@ Business - Stakeholder - Functional - NFR mapping yaratmaq
 * Requirements & Traceability (BR, SR, FR, NFR) - [View Sheet](https://docs.google.com/spreadsheets/d/154nLduUGugK5EDZolFAqD4EEjvxUmKNOovvY8wq8F7g/edit?usp=sharing)
 * Current (AS-IS) & Future (TO-BE) - [View Document](https://docs.google.com/document/d/1w_yTvtuZTs7NiVZ9wtQnXLjC6UEiKtDIkyEYZHXJ4Ec/edit?usp=sharing)
 * Current & Future Flow - [View Diagram](https://lucid.app/lucidchart/a23e0dca-d11d-4dbf-a129-ece9b4402da9/edit?viewport_loc=-1871%2C-801%2C4488%2C2137%2C0_0&invitationId=inv_ebf40beb-fdc0-407d-bd19-b18261c57704)
+* Gap Analysis - 
 
 ---
 
