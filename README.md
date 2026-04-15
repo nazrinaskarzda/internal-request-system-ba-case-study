@@ -17,7 +17,7 @@ Bu layihə daxili sorğuların idarə olunması sistemi (MIS) üçün hazırlanm
 
 ## Business Problem
 
-* Hazırda daxili xidmət sorğuları email və qeyri-formal kommunikasiya vasitələri ilə idarə olunur ki, bu da aşağıdakı problemlərə səbəb olur:
+Hazırda daxili xidmət sorğuları email və qeyri-formal kommunikasiya vasitələri ilə idarə olunur ki, bu da aşağıdakı problemlərə səbəb olur:
 * Gecikmələr və aşağı effektivlik
 * Şəffaflığın olmaması
 * Kommunikasiya səhvləri riski
