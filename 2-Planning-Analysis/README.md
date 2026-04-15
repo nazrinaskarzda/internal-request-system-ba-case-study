@@ -1,17 +1,17 @@
 # Planning & Analysis Phase
 
-This phase focuses on understanding the current state, gathering and structuring requirements, and defining a clear analytical foundation for the proposed solution.
+Bu mərhələ mövcud vəziyyətin (current state) başa düşülməsi, tələblərin toplanması və strukturlaşdırılması, həmçinin təklif olunan həll üçün analitik əsasın formalaşdırılmasına fokuslanır.
 
 ---
 
 ## Key Activities
 
-* Conducted elicitation sessions to gather and clarify business needs
-* Defined stakeholder communication approach
-* Analyzed current processes (AS-IS) and identified key pain points
-* Defined and structured business, stakeholder, functional, and non-functional requirements
-* Established end-to-end requirements traceability
-* Created Business - Stakeholder - Functional - NFR mapping
+Elicitation sessiyaları keçirmək və business need-ləri dəqiqləşdirmək
+Stakeholder-lərlə kommunikasiya yanaşması müəyyənləşdirmək
+Mövcud prosesləri (AS-IS) analiz etmək və əsas pain point-lər müəyyən etmək
+Business, stakeholder, functional və non-functional tələbləri formalaşdırmaq və strukturlaşdırmaq
+End-to-end requirements traceability təmin etmək
+Business - Stakeholder - Functional - NFR mapping yaratmaq
 
 ---
 
@@ -26,4 +26,4 @@ This phase focuses on understanding the current state, gathering and structuring
 
 ## Outcome
 
-A structured and traceable set of requirements, aligned with business needs and supported by clear visibility into the current process, enabling effective solution design.
+Biznes ehtiyaclarına uyğun, strukturlaşdırılmış və izlənilə bilən (traceable) tələblər formalaşdırıldı. Mövcud proses üzrə aydın görünürlük təmin olunaraq effektiv solution design üçün möhkəm analitik baza yaradıldı.
