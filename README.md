@@ -1,8 +1,6 @@
-# Internal Request System - Business Analysis Case Study
+# Daxili Sorğu Sistemi - Biznes Analizi Case Study
 
 ## Project Structure
-
-Explore each phase of the Business Analysis lifecycle:
 
 -  [Initiation](./1-Initiation)
 -  [Planning & Analysis](./2-Planning-Analysis)
@@ -13,38 +11,36 @@ Explore each phase of the Business Analysis lifecycle:
 
 ## Project Summary
 
-This project presents a Business Analysis case study for an internal request management system.
-It focuses on transforming manual and fragmented internal processes into a structured, digital solution to improve efficiency, transparency, and decision-making.
+Bu layihə daxili sorğuların idarə olunması sistemi (MIS) üçün hazırlanmış Biznes Analizi case study-dir. Məqsəd manual daxili prosesləri daha strukturlaşdırılmış və rəqəmsal həllə çevirməklə effektivliyi, şəffaflığı və qərarverməni yaxşılaşdırmaqdır.
 
 ---
 
 ## Business Problem
 
-Internal service requests are currently handled through manual processes such as emails and informal communication, resulting in:
-
-* Delays and inefficiencies
-* Lack of transparency
-* High risk of miscommunication
-* No centralized tracking
+* Hazırda daxili xidmət sorğuları email və qeyri-formal kommunikasiya vasitələri ilə idarə olunur ki, bu da aşağıdakı problemlərə səbəb olur:
+* Gecikmələr və aşağı effektivlik
+* Şəffaflığın olmaması
+* Kommunikasiya səhvləri riski
+* Mərkəzləşdirilmiş izləmə mexanizminin olmaması
 
 ---
 
 ## Project Objectives
 
-* Improve request processing efficiency
-* Increase transparency and tracking
-* Standardize internal workflows
-* Enable data-driven decision-making
+* Sorğuların emal effektivliyini artırmaq
+* Şəffaflığı və izlənilə bilənliyi təmin etmək
+* Daxili iş axınlarını standartlaşdırmaq
+* Data əsaslı qərarverməni mümkün etmək
 
 ---
 
 ## Proposed Solution
 
-A centralized internal request management system that:
+Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 
-* Digitizes request submission and tracking
-* Automates internal workflows
-* Provides real-time visibility into requests and performance
+* Sorğuların yaradılmasını və izlənməsini rəqəmsallaşdırır
+* Daxili prosesləri avtomatlaşdırır
+* Real vaxtda sorğular və performans üzrə görünürlük təmin edir
 
 ---
 
@@ -52,14 +48,14 @@ A centralized internal request management system that:
 
 ### In Scope
 
-* Internal request submission and tracking
-* Workflow standardization
-* Reporting and monitoring
+* Daxili sorğuların yaradılması və izlənməsi
+* İş axınlarının standartlaşdırılması
+* Hesabat və monitorinq
 
 ### Out of Scope
 
-* External system integrations
-* Mobile application development
+* Xarici sistem inteqrasiyaları
+* Mobil tətbiq
 
 ---
 
@@ -76,15 +72,15 @@ A centralized internal request management system that:
 
 ### Current State (AS-IS)
 
-* Manual request handling
-* No standardized workflow
-* Lack of tracking and visibility
+* Manual sorğu idarəetməsi
+* Standartlaşdırılmış proseslərin olmaması
+* İzləmə və görünürlük çatışmazlığı
 
 ### Future State (TO-BE)
 
-* Automated request processing
-* Centralized tracking system
-* Improved transparency and efficiency
+* Avtomatlaşdırılmış sorğu emalı
+* Mərkəzləşdirilmiş izləmə sistemi
+* Artırılmış şəffaflıq və effektivlik
 
 ---
 
@@ -225,10 +221,9 @@ A centralized internal request management system that:
 
 ---
 
-## Note
+## Qeyd
 
-Detailed project documentation and deliverables are prepared in Azerbaijani to reflect real-world business communication practices.
-The repository structure and summaries are provided in English to ensure accessibility for an international audience.
+Layihə sənədləri real iş mühitinə uyğun olaraq Azərbaycan dilində hazırlanmışdır. Başlıqlar və əsas terminologiya isə beynəlxalq Business Analysis standartlarına uyğun olaraq ingilis dilində saxlanılmışdır.
 
 ---
 
