@@ -1,4 +1,4 @@
-# Daxili Sorğu Sistemi - Biznes Analizi Case Study
+# Daxili Sorğu Sistemi - Business Analysis Case Study
 
 ## Project Structure
 
@@ -225,8 +225,3 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 
 Layihə sənədləri real iş mühitinə uyğun olaraq Azərbaycan dilində hazırlanmışdır. Başlıqlar və əsas terminologiya isə beynəlxalq Business Analysis standartlarına uyğun olaraq ingilis dilində saxlanılmışdır.
 
----
-
-## Key Takeaway
-
-This project demonstrates the ability to perform end-to-end business analysis - from problem identification and stakeholder analysis to solution design, validation, and performance evaluation - using a structured approach aligned with real-world practices.
