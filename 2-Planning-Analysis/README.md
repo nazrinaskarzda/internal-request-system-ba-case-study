@@ -28,4 +28,4 @@ Bu mərhələ mövcud vəziyyətin (current state) başa düşülməsi, tələbl
 
 ## Outcome
 
-Biznes ehtiyaclarına uyğun, strukturlaşdırılmış və izlənilə bilən (traceable) tələblər formalaşdırıldı. Mövcud proses üzrə aydın görünürlük təmin olunaraq effektiv solution design üçün möhkəm analitik baza yaradıldı.
+Biznes ehtiyaclarına uyğun, strukturlaşdırılmış və izlənilə bilən (traceable) tələblər formalaşdırıldı. Mövcud proses üzrə aydın görünürlük təmin olunaraq effektiv solution design üçün analitik baza yaradıldı.
