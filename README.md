@@ -164,8 +164,8 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 
 * Elicitation & Communication Plan - [View Sheet](https://docs.google.com/spreadsheets/d/1qXvmfMIY11Hd1QUBhcX1xuNw7rSPrKtQ6tVTYNQjdf0/edit?usp=sharing)
 * Requirements & Traceability (BR, SR, FR, NFR) - [View Sheet](https://docs.google.com/spreadsheets/d/154nLduUGugK5EDZolFAqD4EEjvxUmKNOovvY8wq8F7g/edit?usp=sharing)
-* Current State Analysis - [View Document](https://docs.google.com/document/d/1w_yTvtuZTs7NiVZ9wtQnXLjC6UEiKtDIkyEYZHXJ4Ec/edit?usp=sharing)
-* Current State Flow - [View Diagram](https://lucid.app/lucidchart/a23e0dca-d11d-4dbf-a129-ece9b4402da9/edit?viewport_loc=-1848%2C-767%2C4382%2C2086%2C0_0&invitationId=inv_ebf40beb-fdc0-407d-bd19-b18261c57704)
+* Current (AS-IS) & Future (TO-BE) - [View Document](https://docs.google.com/document/d/1w_yTvtuZTs7NiVZ9wtQnXLjC6UEiKtDIkyEYZHXJ4Ec/edit?usp=sharing)
+* Current & Future State Flow - [View Diagram](https://lucid.app/lucidchart/a23e0dca-d11d-4dbf-a129-ece9b4402da9/edit?viewport_loc=-1848%2C-767%2C4382%2C2086%2C0_0&invitationId=inv_ebf40beb-fdc0-407d-bd19-b18261c57704)
 
 ---
 
