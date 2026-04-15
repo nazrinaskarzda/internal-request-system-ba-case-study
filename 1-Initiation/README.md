@@ -1,16 +1,16 @@
 # Initiation Phase
 
-This phase focuses on defining the business problem, identifying key stakeholders, and establishing the scope and foundational understanding of the project.
+Bu mərhələ biznes probleminin müəyyənləşdirilməsi, əsas stakeholder-lərin identifikasiyası və layihənin əhatə dairəsinin (scope) formalaşdırılmasına fokuslanır.
 
 ---
 
 ## Key Activities
 
-* Defined the business problem and business need
-* Identified and analyzed key stakeholders
-* Established project scope (in-scope / out-of-scope)
-* Defined roles and responsibilities using RACI
-* Documented assumptions and identified potential risks
+* Biznes problemi və business need müəyyənləşdirildi
+* Əsas stakeholder-lər identifikasiya edildi və analiz olundu
+* Layihənin scope-u (in-scope / out-of-scope) müəyyənləşdirildi
+* RACI vasitəsilə rollar və məsuliyyətlər təyin olundu
+* Assumptions sənədləşdirildi və potensial risklər müəyyən edildi
 
 ---
 
@@ -25,4 +25,4 @@ This phase focuses on defining the business problem, identifying key stakeholder
 
 ## Outcome
 
-A well-defined understanding of the business problem, stakeholder landscape, and project boundaries, providing a solid foundation for planning and analysis.
+Biznes problemi, stakeholder mühiti və layihə sərhədləri üzrə aydın və strukturlaşdırılmış anlayış formalaşdırıldı ki, bu da Planning & Analysis mərhələsi üçün möhkəm əsas yaradır.
