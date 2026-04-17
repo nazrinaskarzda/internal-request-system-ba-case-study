@@ -19,7 +19,8 @@ Bu layihə daxili sorğuların idarə olunması sistemi (MIS) üçün hazırlanm
 
 Hazırda daxili xidmət sorğuları email və qeyri-formal kommunikasiya vasitələri ilə idarə olunur ki, bu da aşağıdakı problemlərə səbəb olur:
 * Gecikmələr və aşağı effektivlik
-* Şəffaflığın olmaması
+* Şəffaflığın və izlənə bilənliyin olmaması
+* Prioritizasiya və məsuliyyətin qeyri-müəyyənliyi
 * Kommunikasiya səhvləri riski
 * Mərkəzləşdirilmiş izləmə mexanizminin olmaması
 
@@ -27,10 +28,11 @@ Hazırda daxili xidmət sorğuları email və qeyri-formal kommunikasiya vasitə
 
 ## Project Objectives
 
-* Sorğuların emal effektivliyini artırmaq
-* Şəffaflığı və izlənilə bilənliyi təmin etmək
-* Daxili iş axınlarını standartlaşdırmaq
-* Data əsaslı qərarverməni mümkün etmək
+* Sorğuların emal müddətini minimum 30% azaltmaq
+* Sorğuların statusunun 100% izlənilə bilənliyini təmin etmək
+* Sorğuların ən azı 90%-nin müəyyən olunmuş SLA daxilində tamamlanmasını təmin etmək
+* Manual əməliyyatların payını azaldaraq proses effektivliyini artırmaq
+* Qərarvermə üçün istifadə olunan report və dashboard-ların hazırlanmasını təmin etmək
 
 ---
 
@@ -38,9 +40,10 @@ Hazırda daxili xidmət sorğuları email və qeyri-formal kommunikasiya vasitə
 
 Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 
-* Sorğuların yaradılmasını və izlənməsini rəqəmsallaşdırır
-* Daxili prosesləri avtomatlaşdırır
-* Real vaxtda sorğular və performans üzrə görünürlük təmin edir
+* Sorğuların vahid platforma üzərindən yaradılmasını və izlənməsini təmin edir
+* Sorğuların avtomatik yönləndirilməsi və prioritetləşdirilməsini dəstəkləyir
+* Hər sorğu üzrə status və məsul şəxsin aydın görünməsini təmin edir
+* Real vaxtda performans və sorğu vəziyyəti üzrə görünürlük yaradır
 
 ---
 
@@ -82,6 +85,12 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 * Mərkəzləşdirilmiş izləmə sistemi
 * Artırılmış şəffaflıq və effektivlik
 
+### Key Gaps
+
+* Mərkəzləşdirilmiş sistemin olmaması
+* Manual və vaxt aparan proseslər
+* Sorğuların izlənməsində çətinliklər
+
 ---
 
 ## BA Lifecycle Approach
@@ -94,17 +103,18 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 * RACI Matrix
 * Assumptions Log
 * Risk Log
-* Assumptions & Risk Relationship
 
 ---
 
 ### 2. Planning & Analysis
 
-* Elicitation & Communication Plan
+* Elicitation
+* Communication Plan
 * Current State Analysis (AS-IS)
+* Future State (TO-BE)
+* Gap Analysis
 * Business & Stakeholder Requirements
-* Requirements Traceability
-* Business - Stakeholder - Functional - NFR Mapping
+* Requirements Traceability Matrix
 
 ---
 
@@ -224,5 +234,6 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 
 ## Qeyd
 
-Layihə sənədləri real iş mühitinə uyğun olaraq Azərbaycan dilində hazırlanmışdır. Başlıqlar və əsas terminologiya isə beynəlxalq Business Analysis standartlarına uyğun olaraq ingilis dilində saxlanılmışdır.
+Layihə sənədləri real iş mühitinə uyğun olaraq Azərbaycan dilində hazırlanmışdır. Başlıqlar və əsas terminologiya isə beynəlxalq Business Analysis
+standartlarına uyğun olaraq ingilis dilində saxlanılmışdır.
 
