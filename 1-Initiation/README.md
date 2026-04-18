@@ -17,7 +17,7 @@ Bu mərhələ biznes probleminin müəyyənləşdirilməsi, əsas stakeholder-l�
 ## Deliverables
 
 * Problem Statement & Objectives - [View Document](https://docs.google.com/document/d/1vJBJdLolPeqADzZ7iQUlhgdgFIsihq_z7T1QdHDo3w0/edit?usp=sharing)
-* Stakeholder Identification & Analysis - [View Sheet](<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRG48_fNPaUe8KsLW-nBZlh9RS4fc8AqUqC1oBCZrKMBSaNaBQnOXuD9PLlJVR9O7qC9yvuIuSiQMLw/pubhtml?widget=true&amp;headers=false"></iframe>)
+* Stakeholder Identification & Analysis - [View Sheet](https://docs.google.com/spreadsheets/d/1dRbUta5tM175rLT0mKaDoJ-3qG-udGWILqVc2Z5fmys/edit?usp=sharing)
 * Stakeholder Map - [View Map](https://lucid.app/lucidchart/542f27d5-4725-4f77-8884-e4e2a80c4b4e/view)
 * Assumptions & Risk Log - [View Sheet](https://docs.google.com/spreadsheets/d/1_PL97gybJtXfxYYvVc2LZZFk2Ly5DT0T9lYLy699_co/edit?usp=sharing)
 
