@@ -97,7 +97,7 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 
 ### 1. Initiation
 
-* Problem Statement & Business Need
+* Problem Statement & Objectives
 * Stakeholder Identification & Analysis
 * Scope Definition
 * RACI Matrix
