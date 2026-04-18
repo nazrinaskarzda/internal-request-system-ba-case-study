@@ -6,13 +6,13 @@ Bu mərhələ mövcud vəziyyətin (current state) başa düşülməsi, tələbl
 
 ## Key Activities
 
-* Elicitation sessiyaları keçirmək və business need-ləri dəqiqləşdirmək
-* Stakeholder-lərlə kommunikasiya yanaşması müəyyənləşdirmək
-* Mövcud prosesləri (AS-IS) analiz etmək və əsas pain point-lər müəyyən etmək
-* Current State (AS-IS) və Future State (TO-BE) müqayisə edilərək əsas gap-lər müəyyən etmək
-* Business, stakeholder, functional və non-functional tələbləri formalaşdırmaq və strukturlaşdırmaq
+* Elicitation sessiyalarının keçirilmə forması və business need-ləri dəqiqləşdirildi
+* Stakeholder-lərlə kommunikasiya yanaşması müəyyənləşdirildi
+* Mövcud proseslər (AS-IS) analiz edildi və əsas pain point-lər müəyyən edildi
+* Current State (AS-IS) və Future State (TO-BE) müqayisə edilərək əsas gap-lər müəyyən edildi
+* Business, stakeholder, functional və non-functional tələblər formalaşdırıldı və strukturlaşdırıldı
 * End-to-end requirements traceability təmin etmək
-* Business - Stakeholder - Functional - NFR mapping yaratmaq
+* Business - Stakeholder - Functional - NFR mapping yaradıldı
 
 ---
 
