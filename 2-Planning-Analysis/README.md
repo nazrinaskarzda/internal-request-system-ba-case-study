@@ -11,7 +11,7 @@ Bu mərhələ mövcud vəziyyətin (current state) başa düşülməsi, tələbl
 * Mövcud proseslər (AS-IS) analiz edildi və əsas pain point-lər müəyyən edildi
 * Current State (AS-IS) və Future State (TO-BE) müqayisə edilərək əsas gap-lər müəyyən edildi
 * Business, stakeholder, functional və non-functional tələblər formalaşdırıldı və strukturlaşdırıldı
-* End-to-end requirements traceability təmin etmək
+* End-to-end requirements traceability quruldu
 * Business - Stakeholder - Functional - NFR mapping yaradıldı
 
 ---
