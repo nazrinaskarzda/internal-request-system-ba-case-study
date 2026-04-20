@@ -2,7 +2,6 @@
 
 Bu mərhələ biznes tələblərinə əsaslanaraq həllin dizayn edilməsinə fokuslanır. Burada sistemin davranışı, proses axınları və texniki strukturu modelləşdirilir.
 
----
 
 ## Key Activities
 
@@ -15,7 +14,6 @@ Bu mərhələ biznes tələblərinə əsaslanaraq həllin dizayn edilməsinə fo
 * User story-lər və acceptance criteria-lar yazıldı
 * API struktur və endpoint-lər sənədləşdirildi  
 
----
 
 ## Deliverables
 
@@ -48,7 +46,6 @@ Bu mərhələ biznes tələblərinə əsaslanaraq həllin dizayn edilməsinə fo
 
 * API Documentation → [View Document](link)  
 
----
 
 ## Outcome
 
