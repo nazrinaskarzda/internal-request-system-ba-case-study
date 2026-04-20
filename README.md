@@ -136,7 +136,7 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 
 ---
 
-### 4. Development Support
+### 4. Implementation Support
 
 * Requirement Clarifications
 * Change Request Handling
