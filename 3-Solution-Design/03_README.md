@@ -19,9 +19,7 @@ Bu mərhələ biznes tələblərinə əsaslanaraq həllin dizayn edilməsinə fo
 
 #### Requirements
 
-* Functional Requirements (FR) → [View Document](link)
-* Non-Functional Requirements (NFR) → [View Document](link)
-* Business Rules → [View Document](link)  
+* Requirements & Traceability (BR, SR, FR, NFR, Business Rules) - [View Sheet](https://docs.google.com/spreadsheets/d/154nLduUGugK5EDZolFAqD4EEjvxUmKNOovvY8wq8F7g/edit?usp=sharing)
 
 #### Process & Flow Diagrams
 
