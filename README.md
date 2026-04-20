@@ -13,7 +13,6 @@
 
 Bu layihə daxili sorğuların idarə olunması sistemi (MIS) üçün hazırlanmış Biznes Analizi case study-dir. Məqsəd manual daxili prosesləri daha strukturlaşdırılmış və rəqəmsal həllə çevirməklə effektivliyi, şəffaflığı və qərarverməni yaxşılaşdırmaqdır.
 
----
 
 ## Business Problem
 
@@ -24,7 +23,6 @@ Hazırda daxili xidmət sorğuları email və qeyri-formal kommunikasiya vasitə
 * Kommunikasiya səhvləri riski
 * Mərkəzləşdirilmiş izləmə mexanizminin olmaması
 
----
 
 ## Project Objectives
 
@@ -34,7 +32,6 @@ Hazırda daxili xidmət sorğuları email və qeyri-formal kommunikasiya vasitə
 * Manual əməliyyatların payını azaldaraq proses effektivliyini artırmaq
 * Qərarvermə üçün istifadə olunan report və dashboard-ların hazırlanmasını təmin etmək
 
----
 
 ## Proposed Solution
 
@@ -45,7 +42,6 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 * Hər sorğu üzrə status və məsul şəxsin aydın görünməsini təmin edir
 * Real vaxtda performans və sorğu vəziyyəti üzrə görünürlük yaradır
 
----
 
 ## Scope
 
@@ -60,7 +56,6 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 * Xarici sistem inteqrasiyaları
 * Mobil tətbiq
 
----
 
 ## Stakeholders
 
@@ -69,7 +64,6 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 * System Administrator
 * Management
 
----
 
 ## Process Overview
 
@@ -91,7 +85,6 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 * Manual və vaxt aparan proseslər
 * Sorğuların izlənməsində çətinliklər
 
----
 
 ## BA Lifecycle Approach
 
@@ -106,7 +99,6 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 * Assumptions Log
 * Risk Log
 
----
 
 ### 2. Planning & Analysis
 
@@ -118,7 +110,6 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 * Business & Stakeholder Requirements
 * Requirements Traceability Matrix
 
----
 
 ### 3. Solution Design
 
@@ -137,7 +128,6 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 * Acceptance Criteria
 * API Documentation
 
----
 
 ### 4. Implementation Support
 
@@ -146,7 +136,6 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 * Requirement Updates
 * Stakeholder Collaboration
 
----
 
 ### 5. Testing & Validation
 
@@ -155,7 +144,6 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 * Error Scenarios
 * SLA Definitions
 
----
 
 ### 6. Evaluation & Measurement
 
@@ -163,7 +151,6 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 * Success Metrics
 * Post-Implementation Evaluation
 
----
 
 ## Key Deliverables
 
@@ -174,7 +161,6 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 * Stakeholder Map - [View Map](https://lucid.app/lucidchart/542f27d5-4725-4f77-8884-e4e2a80c4b4e/view)
 * Assumptions & Risk Log - [View Sheet](https://docs.google.com/spreadsheets/d/1_PL97gybJtXfxYYvVc2LZZFk2Ly5DT0T9lYLy699_co/edit?usp=sharing)
 
----
 
 ### Planning & Analysis
 
@@ -184,7 +170,6 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 * Current & Future State Flow - [View Diagram](https://lucid.app/lucidchart/a23e0dca-d11d-4dbf-a129-ece9b4402da9/view)
 * Gap Analysis - [View Document](https://docs.google.com/document/d/1VpKm00FRRXGfYzLqa50KqN752f3t56T-E0BEtGwn1Ho/edit?usp=sharing)
 
----
 
 ### Solution Design
 
@@ -195,7 +180,6 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 * BPMN Diagram → [View Diagram](Link)
 * Functional & Non-Functional Requirements → [View Sheet](Link)
 
----
 
 ### Development
 
@@ -206,7 +190,6 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 * Sequence Diagram → [View Diagram](Link)
 * Change Requests → [View Document](Link)
 
----
 
 ### Testing
 
@@ -214,13 +197,11 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 * Test Cases → [View Sheet](Link)
 * Acceptance Criteria → [View Document](Link)
 
----
 
 ### Evaluation
 
 * KPIs & Metrics → [View Document](Link)
 
----
 
 ## Final Documentation
 
@@ -228,7 +209,6 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 * System Requirements Specification (SRS) → [View Document](Link)
 * Glossary → [View Document](Link)
 
----
 
 ## Tools Used
 
@@ -236,7 +216,6 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 * Google Sheets
 * Lucidchart
 
----
 
 ## Qeyd
 
