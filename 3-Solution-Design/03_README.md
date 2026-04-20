@@ -10,7 +10,7 @@ Bu mərhələ biznes tələblərinə əsaslanaraq həllin dizayn edilməsinə fo
 * Biznes qaydaları (Business Rules) müəyyənləşdirildi
 * Sistem və proses axınlarını göstərən diaqramlar hazırlandı
 * İstifadəçi davranışını əks etdirən user flow və use case-lər modelləşdirildi
-* Sistemin yüksək səviyyəli arxitekturası dizayn edildi
+* Sistemin high level arxitekturası dizayn edildi
 * Məlumat strukturu (ERD) və data dictionary hazırlandı
 * User story-lər və acceptance criteria-lar yazıldı
 * API struktur və endpoint-lər sənədləşdirildi  
@@ -21,32 +21,32 @@ Bu mərhələ biznes tələblərinə əsaslanaraq həllin dizayn edilməsinə fo
 
 #### Requirements
 
-• Functional Requirements (FR) → [View Document](link)  
-• Non-Functional Requirements (NFR) → [View Document](link)  
-• Business Rules → [View Document](link)  
+* Functional Requirements (FR) → [View Document](link)
+* Non-Functional Requirements (NFR) → [View Document](link)
+* Business Rules → [View Document](link)  
 
 #### Process & Flow Diagrams
 
-• Context Diagram → [View Diagram](link)  
-• Data Flow Diagram (DFD) → [View Diagram](link)  
-• User Flow → [View Diagram](link)  
-• Use Case Diagram → [View Diagram](link)  
-• BPMN Process → [View Diagram](link)  
+* Context Diagram → [View Diagram](link)
+* Data Flow Diagram (DFD) → [View Diagram](link)
+* User Flow → [View Diagram](link)
+* Use Case Diagram → [View Diagram](link)
+* BPMN Process → [View Diagram](link)  
 
 #### System & Data Design
 
-• Solution Architecture (High-Level) → [View Diagram](link)  
-• Data Model (ERD) → [View Diagram](link)  
-• Data Dictionary → [View Document](link)  
+* Solution Architecture (High-Level) → [View Diagram](link)
+* Data Model (ERD) → [View Diagram](link)
+* Data Dictionary → [View Document](link)  
 
 #### Agile Artifacts
 
-• User Stories → [View Document](link)  
-• Acceptance Criteria → [View Document](link)  
+* User Stories → [View Document](link)
+* Acceptance Criteria → [View Document](link)  
 
 #### Technical Documentation
 
-• API Documentation → [View Document](link)  
+* API Documentation → [View Document](link)  
 
 ---
 
