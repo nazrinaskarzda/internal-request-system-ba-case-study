@@ -2,7 +2,6 @@
 
 Bu mərhələ mövcud vəziyyətin (current state) başa düşülməsi, tələblərin toplanması və strukturlaşdırılması, həmçinin təklif olunan həll üçün analitik əsasın formalaşdırılmasına fokuslanır.
 
----
 
 ## Key Activities
 
@@ -14,7 +13,6 @@ Bu mərhələ mövcud vəziyyətin (current state) başa düşülməsi, tələbl
 * End-to-end requirements traceability quruldu
 * Business - Stakeholder - Functional - NFR mapping yaradıldı
 
----
 
 ## Deliverables
 
@@ -24,7 +22,6 @@ Bu mərhələ mövcud vəziyyətin (current state) başa düşülməsi, tələbl
 * Current & Future Flow - [View Diagram](https://lucid.app/lucidchart/a23e0dca-d11d-4dbf-a129-ece9b4402da9/view)
 * Gap Analysis - [View Document](https://docs.google.com/document/d/1VpKm00FRRXGfYzLqa50KqN752f3t56T-E0BEtGwn1Ho/edit?usp=sharing)
 
----
 
 ## Outcome
 
