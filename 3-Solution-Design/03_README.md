@@ -1,10 +1,10 @@
-## Solution Design Phase
+# Solution Design Phase
 
 Bu mərhələ biznes tələblərinə əsaslanaraq həllin dizayn edilməsinə fokuslanır. Burada sistemin davranışı, proses axınları və texniki strukturu modelləşdirilir.
 
 ---
 
-### Key Activities
+## Key Activities
 
 * Biznes tələbləri əsasında funksional və qeyri-funksional tələblər detallandırıldı
 * Biznes qaydaları (Business Rules) müəyyənləşdirildi
@@ -17,7 +17,7 @@ Bu mərhələ biznes tələblərinə əsaslanaraq həllin dizayn edilməsinə fo
 
 ---
 
-### Deliverables
+## Deliverables
 
 #### Requirements
 
@@ -50,6 +50,6 @@ Bu mərhələ biznes tələblərinə əsaslanaraq həllin dizayn edilməsinə fo
 
 ---
 
-### Outcome
+## Outcome
 
 Biznes tələblərinə uyğun olaraq sistemin funksional davranışı, məlumat strukturu və proses axınları aydın şəkildə dizayn edildi. Bu mərhələ development və testing prosesləri üçün əsas rolunu oynayır.
