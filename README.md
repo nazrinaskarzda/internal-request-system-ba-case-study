@@ -98,8 +98,10 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 ### 1. Initiation
 
 * Problem Statement & Objectives
-* Stakeholder Identification & Analysis
+* Business Need
+* High-level Success Criteria (SMART)
 * Scope Definition
+* Stakeholder Identification & Analysis
 * RACI Matrix
 * Assumptions Log
 * Risk Log
@@ -120,12 +122,9 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 
 ### 3. Solution Design
 
-* Solution Scope (In / Out)
-* Business Rules
-* Business Requirements (BR)
-* Stakeholder Requirements (SR)
 * Functional Requirements (FR)
 * Non-Functional Requirements (NFR)
+* Business Rules
 * Context Diagram
 * Data Flow Diagram (DFD)
 * User Flow
@@ -133,6 +132,10 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 * BPMN Process
 * Solution Architecture (high-level)
 * ERD (Data Model)
+* Data Dictionary
+* User Stories
+* Acceptance Criteria
+* API Documentation
 
 ---
 
@@ -149,7 +152,6 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 
 * UAT Plan
 * Test Cases
-* Acceptance Criteria
 * Error Scenarios
 * SLA Definitions
 
