@@ -110,9 +110,9 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 
 * Elicitation
 * Communication Plan
-* Current State Analysis (AS-IS)
+* Current State (AS-IS)
 * Future State (TO-BE)
-* Gap Analysis
+* Gap Analysis (Root Cause / 5 Whys)
 * Business & Stakeholder Requirements
 * Requirements Traceability Matrix
 
@@ -120,6 +120,8 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 
 ### 3. Solution Design
 
+* Solution Scope (In / Out)
+* Business Rules
 * Business Requirements (BR)
 * Stakeholder Requirements (SR)
 * Functional Requirements (FR)
@@ -129,6 +131,8 @@ Mərkəzləşdirilmiş daxili sorğu idarəetmə sistemi:
 * User Flow
 * Use Case Diagram
 * BPMN Process
+* Solution Architecture (high-level)
+* ERD (Data Model)
 
 ---
 
