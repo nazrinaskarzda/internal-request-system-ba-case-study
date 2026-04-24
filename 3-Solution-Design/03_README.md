@@ -37,7 +37,8 @@ Bu mərhələ biznes tələblərinə əsaslanaraq həllin dizayn edilməsinə fo
 
 #### Agile Artifacts
 
-* User Stories & Acceptance Criteria - [View Document 1](https://docs.google.com/document/d/1Mup-m4dvQ-IEn5T28pIjEU3CPKco08hC57G8ZRiu9Qw/edit?usp=sharing) ; [View Document 2](https://docs.google.com/document/d/14Wn3iZ9D8AhY0x1wI1bv_ogWl7U2JYA6rnx8iIN2uUA/edit?usp=sharing) 
+* User Stories & Acceptance Criteria - [View Document 1](https://docs.google.com/document/d/1Mup-m4dvQ-IEn5T28pIjEU3CPKco08hC57G8ZRiu9Qw/edit?usp=sharing) ; [View Document 2](https://docs.google.com/document/d/14Wn3iZ9D8AhY0x1wI1bv_ogWl7U2JYA6rnx8iIN2uUA/edit?usp=sharing)
+* User Story Mapping - [View Diagram](link)
 
 #### Technical Documentation
 
