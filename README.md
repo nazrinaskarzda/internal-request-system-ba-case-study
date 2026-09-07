@@ -2,17 +2,24 @@
 
 ## Layihə haqqında
 
-Böyük təşkilatlarda daxili sorğuların e-poçt, telefon və fərqli kanallarla idarə olunması gecikmələrə, məlumat itkisinə və prosesin izlənməməsinə səbəb olur.
+### Problem
 
-Bu layihədə daxili sorğuların vahid sistem üzərindən yaradılması, yönləndirilməsi və izlənilməsi üçün məhsul həlli hazırlanıb.
+Daxili sorğuların e-poçt, telefon və mesajlaşma kanalları ilə idarə olunması sorğuların itirilməsinə, təkrarlanmasına və gec cavablandırılmasına səbəb olur. Məsul şəxslər, sorğunun statusu və həll müddəti aydın görünmür.
 
-## Məhsulun məqsədi
+### Təklif etdiyim həll
 
-* Sorğuları vahid sistemdə toplamaq
-* Manual işi və cavab müddətini azaltmaq
-* Sorğuların statusunu izlənə bilən etmək
-* Şöbələr arasında məsuliyyəti aydınlaşdırmaq
-* Qərarverməni məlumatlarla dəstəkləmək
+Bütün daxili sorğuların vahid platformada yaradıldığı, kateqoriyaya uyğun yönləndirildiyi və status üzrə izlənildiyi mərkəzləşdirilmiş sistem təklif etdim.
+
+Məhsul həllinə prioritetləşdirmə, avtomatik yönləndirmə, status bildirişləri, SLA izlənməsi, eskalasiya və hesabat imkanları daxildir.
+
+## Biznes dəyəri
+
+* Sorğuların cavablandırılma və həll müddətinin azaldılması
+* Şöbələr üzrə məsuliyyət və proses şəffaflığının artırılması
+* SLA göstəricilərinin izlənilməsi
+* Təkrarlanan manual işlərin azaldılması
+* İdarəetmə qərarlarının real göstəricilərlə dəstəklənməsi
+
 
 ## Mənim rolum
 
