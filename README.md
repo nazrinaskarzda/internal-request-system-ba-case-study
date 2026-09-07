@@ -31,7 +31,7 @@ Bu layihədə daxili sorğuların vahid sistem üzərindən yaradılması, yönl
 
 ### Məhsulun başlanğıcı
 
-| Sənəd                                 | Orijinal versiya                                                                                                            | GitHub versiyası                                                |
+| Sənəd                                 | Orijinal versiya                                                                                                            | PDF versiyası                                                |
 | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | Problem Statement & Business Need     | [Google Docs-da aç](https://docs.google.com/document/d/1vJBJdLolPeqADzZ7iQUlhgdgFIsihq_z7T1QdHDo3w0/edit?usp=sharing)       | [PDF-də bax](Business%20Problem%20%26%20Objectives.pdf)         |
 | Stakeholder Identification & Analysis | [Google Sheets-də aç](https://docs.google.com/spreadsheets/d/1dRbUta5tM175rLT0mKaDoJ-3qG-udGWILqVc2Z5fmys/edit?usp=sharing) | [PDF-də bax](Stakeholder%20Identification%20%26%20Analysis.pdf) |
@@ -40,7 +40,7 @@ Bu layihədə daxili sorğuların vahid sistem üzərindən yaradılması, yönl
 
 ### Analiz və planlama
 
-| Sənəd                              | Orijinal versiya                                                                                                            | GitHub versiyası                                                     |
+| Sənəd                              | Orijinal versiya                                                                                                            | PDF versiyası                                                     |
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | Elicitation & Communication Plan   | [Google Sheets-də aç](https://docs.google.com/spreadsheets/d/1qXvmfMIY11Hd1QUBhcX1xuNw7rSPrKtQ6tVTYNQjdf0/edit?usp=sharing) | [PDF-də bax](Elicitation%20%26%20Communication%20Plan.pdf)           |
 | Requirements & Traceability Matrix | [Google Sheets-də aç](https://docs.google.com/spreadsheets/d/154nLduUGugK5EDZolFAqD4EEjvxUmKNOovvY8wq8F7g/edit?usp=sharing) | [PDF-də bax](Requirements%20Traceability%20Matrix.pdf)               |
@@ -50,7 +50,7 @@ Bu layihədə daxili sorğuların vahid sistem üzərindən yaradılması, yönl
 
 ### Məhsul tələbləri
 
-| Sənəd                                    | Orijinal versiya                                                                                                                                                                                                           | GitHub versiyası                                               |
+| Sənəd                                    | Orijinal versiya                                                                                                                                                                                                           | PDF versiyası                                               |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | User Stories & Acceptance Criteria       | [Google Docs-da aç](https://docs.google.com/document/d/1Mup-m4dvQ-IEn5T28pIjEU3CPKco08hC57G8ZRiu9Qw/edit?usp=sharing) | [PDF-də bax](User%20Stories%20%26%20Acceptance%20Criteria.pdf) |
 | Context Diagram                          | Hazırlanır                                                                                                                                                                                                                 | PDF əlavə ediləcək                                             |
@@ -60,6 +60,14 @@ Bu layihədə daxili sorğuların vahid sistem üzərindən yaradılması, yönl
 | BPMN Diagram                             | Hazırlanır                                                                                                                                                                                                                 | PDF əlavə ediləcək                                             |
 | Functional & Non-Functional Requirements | Hazırlanır                                                                                                                                                                                                                 | PDF əlavə ediləcək                                             |
 | KPIs & Metrics                           | Hazırlanır                                                                                                                                                                                                                 | PDF əlavə ediləcək                                             |
+
+### Məhsulun idarə edilməsi
+
+| Sənəd                                  | Orijinal versiya                   | PDF versiyası      |
+| -------------------------------------- | ---------------------------------- | ------------------ |
+| Məhsul Backlog-u                       | Hazırlanır | PDF əlavə ediləcək |
+| MVP Əhatə Dairəsi və Prioritetləşdirmə | Hazırlanır | PDF əlavə ediləcək |
+| KPI və Uğur Göstəriciləri              | Hazırlanır | PDF əlavə ediləcək |
 
 
 `Product Ownership` · `Business Analysis` · `Stakeholder Analysis` · `AS-IS / TO-BE` · `Gap Analysis` · `Requirements Engineering` · `User Stories` · `Acceptance Criteria` · `Traceability Matrix` · `Risk Analysis`
