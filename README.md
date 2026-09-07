@@ -70,9 +70,6 @@ Bu layihədə daxili sorğuların vahid sistem üzərindən yaradılması, yönl
 | KPI və Uğur Göstəriciləri              | Hazırlanır | PDF əlavə ediləcək |
 
 
-`Product Ownership` · `Business Analysis` · `Stakeholder Analysis` · `AS-IS / TO-BE` · `Gap Analysis` · `Requirements Engineering` · `User Stories` · `Acceptance Criteria` · `Traceability Matrix` · `Risk Analysis`
-
----
 
 **Hazırlayan:** Nazrin Askarzada
 **Rol:** Product Owner / Business Analyst
