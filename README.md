@@ -66,15 +66,14 @@ Məhsul həllinə prioritetləşdirmə, avtomatik yönləndirmə, status bildiri
 | Use Case Diagram                         | Hazırlanır                                                                                                                                                                                                                 | PDF əlavə ediləcək                                             |
 | BPMN Diagram                             | Hazırlanır                                                                                                                                                                                                                 | PDF əlavə ediləcək                                             |
 | Functional & Non-Functional Requirements | Hazırlanır                                                                                                                                                                                                                 | PDF əlavə ediləcək                                             |
-| KPIs & Metrics                           | Hazırlanır                                                                                                                                                                                                                 | PDF əlavə ediləcək                                             |
 
 ### Məhsulun idarə edilməsi
 
 | Sənəd                                  | Orijinal versiya                   | PDF versiyası      |
 | -------------------------------------- | ---------------------------------- | ------------------ |
-| Məhsul Backlog-u                       | Hazırlanır | PDF əlavə ediləcək |
-| MVP Əhatə Dairəsi və Prioritetləşdirmə | Hazırlanır | PDF əlavə ediləcək |
-| KPI və Uğur Göstəriciləri              | Hazırlanır | PDF əlavə ediləcək |
+| Product Backlog                       | Hazırlanır | PDF əlavə ediləcək |
+| MVP and Prioritization | Hazırlanır | PDF əlavə ediləcək |
+| KPIs & Metrics              | Hazırlanır | PDF əlavə ediləcək |
 
 
 
