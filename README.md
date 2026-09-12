@@ -42,7 +42,7 @@ Hazırda daxili xidmət sorğuları **qeyri-strukturlaşdırılmış** şəkild�
 
 | Məqsəd | Cari vəziyyət | Hədəf |
 | --- | ---: | ---: |
-| Sorğuların emal müddətini azaltmaq | 5-7 gün | 30% azalma (3–4 gün) |
+| Sorğuların emal müddətini azaltmaq | 5-7 gün | 30% azalma (3-4 gün) |
 | Sorğu statusunun izlənilə bilməsini təmin etmək | 40% | 100% |
 | Sorğuları SLA daxilində tamamlamaq | 60% | 90% |
 | Əl ilə görülən əməliyyatların payını azaltmaq | — | 50% azalma |
