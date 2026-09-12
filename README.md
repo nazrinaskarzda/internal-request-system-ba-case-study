@@ -105,8 +105,6 @@ Xərclərin mühasibatlıq sisteminə inteqrasiyası
 
 | Mərhələ | Sənəd |
 | --- | --- |
-| Ümumi baxış | [Rəhbərlər üçün xülasə](./BA_EXECUTIVE_SUMMARY_AZ.md) |
-| Metodologiya | [Biznes Analizi Həyat Dövrü Metodologiyası](./BA_LIFECYCLE_METHODOLOGY_AZ.md) |
 | Başlanğıc | [Biznes problemi və məqsədlər](./Business%20Problem%20%26%20Objectives.pdf) |
 | Başlanğıc | [Maraqlı tərəflərin müəyyənləşdirilməsi və təhlili](./Stakeholder%20Identification%20%26%20Analysis.pdf) |
 | Başlanğıc | [Maraqlı tərəflərin xəritəsi](./MIS%20Stakeholder%20Map.png) |
