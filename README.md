@@ -120,9 +120,9 @@ Xərclərin mühasibatlıq sisteminə inteqrasiyası
 
 | Mərhələ | Əsas fəaliyyətlər | Müddət |
 | --- | --- | ---: |
-| **Başlanğıc (Initiation)** | Problemin və maraqlı tərəflərin müəyyənləşdirilməsi, yüksək səviyyəli tələblərin hazırlanması | 2–3 həftə |
-| **Planlaşdırma və analiz** | Tələblərin toplanması, AS-IS və TO-BE analizi, boşluqların müəyyənləşdirilməsi | 3–4 həftə |
-| **Həll dizaynı** | Funksional spesifikasiyalar, sistem arxitekturası, User Stories və Acceptance Criteria | 4–5 həftə |
-| **Tətbiq** | İnkişaf komandası ilə əməkdaşlıq, dəyişiklik sorğularının idarə olunması və tələblərin dəqiqləşdirilməsi | 8–12 həftə |
-| **Sınaq** | UAT planının hazırlanması, test hallarının yoxlanılması və xətaların izlənilməsi | 2–3 həftə |
-| **Qiymətləndirmə** | KPI-lərin ölçülməsi, nəticələrin qiymətləndirilməsi və öyrənilmiş dərslər | 1–2 həftə |
+| **Başlanğıc (Initiation)** | Problemin və maraqlı tərəflərin müəyyənləşdirilməsi, yüksək səviyyəli tələblərin hazırlanması | 2-3 həftə |
+| **Planlaşdırma və analiz** | Tələblərin toplanması, AS-IS və TO-BE analizi, boşluqların müəyyənləşdirilməsi | 3-4 həftə |
+| **Həll dizaynı** | Funksional spesifikasiyalar, sistem arxitekturası, User Stories və Acceptance Criteria | 4-5 həftə |
+| **Tətbiq** | İnkişaf komandası ilə əməkdaşlıq, dəyişiklik sorğularının idarə olunması və tələblərin dəqiqləşdirilməsi | 8-12 həftə |
+| **Sınaq** | UAT planının hazırlanması, test hallarının yoxlanılması və xətaların izlənilməsi | 2-3 həftə |
+| **Qiymətləndirmə** | KPI-lərin ölçülməsi, nəticələrin qiymətləndirilməsi və öyrənilmiş dərslər | 1-2 həftə |
