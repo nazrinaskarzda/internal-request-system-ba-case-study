@@ -100,19 +100,29 @@ Xərclərin mühasibatlıq sisteminə inteqrasiyası
 | **Audit və uyğunluq** | Tənzimləyici | 🟡 Orta |
 
 ## Əsas tamamlanmış işlər (Key Deliverables)
+### Ümumi sənədlər
 
-| Mərhələ | Sənəd | Status |
-| --- | --- | ---: |
-| Başlanğıc | [Biznes problemi və məqsədlər](./Business%20Problem%20%26%20Objectives.pdf) 
-| Başlanğıc | [Maraqlı tərəflərin müəyyənləşdirilməsi və təhlili](./Stakeholder%20Identification%20%26%20Analysis.pdf) 
-| Başlanğıc | [Maraqlı tərəflərin xəritəsi](./MIS%20Stakeholder%20Map.png) 
-| Başlanğıc | [Risk və fərziyyələr reyestri](./Risk%20%26%20Assumption%20Register.pdf) 
-| Planlaşdırma | [Tələblərin toplanması və kommunikasiya planı](./Elicitation%20%26%20Communication%20Plan.pdf) 
-| Planlaşdırma | [Tələblərin izlənilməsi matrisi](./Requirements%20Traceability%20Matrix.pdf) 
-| Proses analizi | [Cari və gələcək vəziyyətin təhlili](./Current%20%28AS-IS%29%20%26%20Future%20%28TO-BE%29.pdf) 
-| Proses analizi | [Cari və gələcək proseslərin vizual modeli](./Current%20vs.%20Future%20State.png) 
-| Proses analizi | [Gap Analysis](./Gap%20Analysis.pdf) 
-| Məhsul tələbləri | [User Stories və Acceptance Criteria](./User%20Stories%20%26%20Acceptance%20Criteria.pdf) 
+| Sənəd | Fayl |
+| --- | --- |
+| Rəhbərlər üçün xülasə | [](./BA_EXECUTIVE_SUMMARY_AZ.md) |
+| Biznes Analizi Həyat Dövrü Metodologiyası | [](./BA_LIFECYCLE_METHODOLOGY_AZ.md) |
+
+## Layihə sənədləri
+
+| Mərhələ | Sənəd |
+| --- | --- |
+| Ümumi baxış | [Rəhbərlər üçün xülasə](./BA_EXECUTIVE_SUMMARY_AZ.md) |
+| Metodologiya | [Biznes Analizi Həyat Dövrü Metodologiyası](./BA_LIFECYCLE_METHODOLOGY_AZ.md) |
+| Başlanğıc | [Biznes problemi və məqsədlər](./Business%20Problem%20%26%20Objectives.pdf) |
+| Başlanğıc | [Maraqlı tərəflərin müəyyənləşdirilməsi və təhlili](./Stakeholder%20Identification%20%26%20Analysis.pdf) |
+| Başlanğıc | [Maraqlı tərəflərin xəritəsi](./MIS%20Stakeholder%20Map.png) |
+| Başlanğıc | [Risk və fərziyyələr reyestri](./Risk%20%26%20Assumption%20Register.pdf) |
+| Analiz və planlaşdırma | [Tələblərin toplanması və kommunikasiya planı](./Elicitation%20%26%20Communication%20Plan.pdf) |
+| Analiz və planlaşdırma | [Tələblərin izlənilməsi matrisi](./Requirements%20Traceability%20Matrix.pdf) |
+| Analiz və planlaşdırma | [Cari və gələcək vəziyyət](./Current%20%28AS-IS%29%20%26%20Future%20%28TO-BE%29.pdf) |
+| Analiz və planlaşdırma | [Cari və gələcək proses xəritəsi](./Current%20vs.%20Future%20State.png) |
+| Analiz və planlaşdırma | [Boşluq analizi](./Gap%20Analysis.pdf) |
+| Məhsul tələbləri | [İstifadəçi hekayələri və qəbul meyarları](./User%20Stories%20%26%20Acceptance%20Criteria.pdf) |
 
 ## Business Analysis-in həyat dövrü
 
