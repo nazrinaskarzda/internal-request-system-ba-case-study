@@ -32,8 +32,8 @@ Hazırda daxili xidmət sorğuları **qeyri-strukturlaşdırılmış** şəkild�
 | --- | --- | --- |
 | **Gecikmələr** | Sorğuların emalı 5–7 iş günü çəkir | 🔴 Yüksək |
 | **Şəffaflığın olmaması** | Müştərilər sorğunun statusunu bilmir | 🔴 Yüksək |
-| **Əl ilə görülən işlər** | Vaxt aparan, səhvə meyilli əməliyyatlar | 🟠 Orta–yüksək |
-| **Məsuliyyət çatışmazlığı** | Kimin nə etdiyi aydın deyil | 🟠 Orta–yüksək |
+| **Əl ilə görülən işlər** | Vaxt aparan, səhvə meyilli əməliyyatlar | 🟠 Orta-yüksək |
+| **Məsuliyyət çatışmazlığı** | Kimin nə etdiyi aydın deyil | 🟠 Orta-yüksək |
 | **Rəqabət analizlərinin çatışmazlığı** | Məlumat əsaslı qərarlar qəbul edilə bilmir | 🟡 Orta |
 
 ## Layihənin məqsədləri
