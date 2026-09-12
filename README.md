@@ -1,84 +1,128 @@
-# Daxili Sorğu Sistemi - Product Owner & Business Analysis Case Study
+## Business Analysis Case Study (Tam layihə sənədləşdirilməsi)
 
 ## Layihə haqqında
 
-### Problem
+Bu case study daxili xidmət sorğularının idarə olunması üçün **mərkəzləşdirilmiş informasiya sisteminin (MIS)** qurulması prosesini əhatə edən tam Business Analysis layihəsinin sənədləşdirilməsidir.
 
-Daxili sorğuların e-poçt, telefon və mesajlaşma kanalları ilə idarə olunması sorğuların itirilməsinə, təkrarlanmasına və gec cavablandırılmasına səbəb olur. Məsul şəxslər, sorğunun statusu və həll müddəti aydın görünmür.
+Layihə Business Analysis-in həyat dövrünün tamamını əks etdirir:
 
-### Təklif etdiyim həll
+- **Başlanğıc (Initiation)** - Problemin müəyyənləşdirilməsi
+- **Planlaşdırma və analiz (Planning & Analysis)** - Tələblərin toplanması
+- **Həll dizaynı (Solution Design)** - Texniki spesifikasiyalar
+- **Tətbiq (Implementation)** - İnkişaf dəstəyi
+- **Sınaq və validasiya (Testing & Validation)** - Keyfiyyətin yoxlanılması
+- **Qiymətləndirmə (Evaluation)** - Nəticələrin ölçülməsi
 
-Bütün daxili sorğuların vahid platformada yaradıldığı, kateqoriyaya uyğun yönləndirildiyi və status üzrə izlənildiyi mərkəzləşdirilmiş sistem təklif etdim.
+## Biznes problemi
 
-Məhsul həllinə prioritetləşdirmə, avtomatik yönləndirmə, status bildirişləri, SLA izlənməsi, eskalasiya və hesabat imkanları daxildir.
+### Cari vəziyyət (AS-IS)
 
-## Biznes dəyəri
+Hazırda daxili xidmət sorğuları **qeyri-strukturlaşdırılmış** şəkildə idarə olunur:
 
-* Sorğuların cavablandırılma və həll müddətinin azaldılması
-* Şöbələr üzrə məsuliyyət və proses şəffaflığının artırılması
-* SLA göstəricilərinin izlənilməsi
-* Təkrarlanan manual işlərin azaldılması
-* İdarəetmə qərarlarının real göstəricilərlə dəstəklənməsi
+- Sorğular e-poçt və digər qeyri-rəsmi kanallarla qəbul edilir
+- Sorğuların izlənilməsi çətindir
+- Prioritetlər aydın deyil
+- SLA-lar müəyyən edilməyib
+- Əməliyyatlar əsasən əl ilə aparılır
+- Mərkəzləşdirilmiş görünürlük yoxdur
 
+### Əsas problemlər
 
-## Mənim rolum
+| Problem | Təsir | Ciddilik |
+| --- | --- | --- |
+| **Gecikmələr** | Sorğuların emalı 5–7 iş günü çəkir | 🔴 Yüksək |
+| **Şəffaflığın olmaması** | Müştərilər sorğunun statusunu bilmir | 🔴 Yüksək |
+| **Əl ilə görülən işlər** | Vaxt aparan, səhvə meyilli əməliyyatlar | 🟠 Orta–yüksək |
+| **Məsuliyyət çatışmazlığı** | Kimin nə etdiyi aydın deyil | 🟠 Orta–yüksək |
+| **Rəqabət analizlərinin çatışmazlığı** | Məlumat əsaslı qərarlar qəbul edilə bilmir | 🟡 Orta |
 
-**Product Owner və Business Analyst** yanaşması ilə:
+## Layihənin məqsədləri
 
-* Biznes problemini və məhsul məqsədlərini müəyyənləşdirdim
-* Stakeholder ehtiyaclarını təhlil etdim
-* AS-IS və TO-BE proseslərini hazırladım
-* Gap Analysis apardım
-* Biznes və sistem tələblərini sənədləşdirdim
-* User Story və Acceptance Criteria hazırladım
-* Riskləri və fərziyyələri qiymətləndirdim
-* Tələblərin izlənməsi üçün Traceability Matrix qurdum
+### Əsas hədəflər (SMART)
 
-## Layihə sənədləri
+| Məqsəd | Cari vəziyyət | Hədəf |
+| --- | ---: | ---: |
+| Sorğuların emal müddətini azaltmaq | 5–7 gün | 30% azalma (3–4 gün) |
+| Sorğu statusunun izlənilə bilməsini təmin etmək | 40% | 100% |
+| Sorğuları SLA daxilində tamamlamaq | 60% | 90% |
+| Əl ilə görülən əməliyyatların payını azaltmaq | — | 50% azalma |
+| Dashboard hesabatları hazırlamaq | — | Həftəlik |
 
-### Məhsulun başlanğıcı
+## Təklif olunan həll (TO-BE)
 
-| Sənəd                                 | Orijinal versiya                                                                                                            | PDF versiyası                                                |
-| ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| Problem Statement & Business Need     | [Google Docs-da aç](https://docs.google.com/document/d/1vJBJdLolPeqADzZ7iQUlhgdgFIsihq_z7T1QdHDo3w0/edit?usp=sharing)       | [PDF-də bax](Business%20Problem%20%26%20Objectives.pdf)         |
-| Stakeholder Identification & Analysis | [Google Sheets-də aç](https://docs.google.com/spreadsheets/d/1dRbUta5tM175rLT0mKaDoJ-3qG-udGWILqVc2Z5fmys/edit?usp=sharing) | [PDF-də bax](Stakeholder%20Identification%20%26%20Analysis.pdf) |
-| Stakeholder Map                       | [Lucidchart-da aç](https://lucid.app/lucidchart/542f27d5-4725-4f77-8884-e4e2a80c4b4e/view)                                  | [Şəkilə bax](MIS%20Stakeholder%20Map.png)                       |
-| Assumptions & Risk Log                | [Google Sheets-də aç](https://docs.google.com/spreadsheets/d/1_PL97gybJtXfxYYvVc2LZZFk2Ly5DT0T9lYLy699_co/edit?usp=sharing) | [PDF-də bax](Risk%20%26%20Assumption%20Register.pdf)            |
+### Həllin ümumi görünüşü
 
-### Analiz və planlama
+1. Sorğunun yaradılması
+2. Müvafiq şöbəyə avtomatik yönləndirilməsi
+3. Prioritet səviyyəsinin müəyyənləşdirilməsi
+4. Məsul işçiyə təyin edilməsi
+5. Sorğunun tamamlanması və cavablandırılması
+6. Nəticələrin hesabatlarda əks etdirilməsi
 
-| Sənəd                              | Orijinal versiya                                                                                                            | PDF versiyası                                                     |
-| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| Elicitation & Communication Plan   | [Google Sheets-də aç](https://docs.google.com/spreadsheets/d/1qXvmfMIY11Hd1QUBhcX1xuNw7rSPrKtQ6tVTYNQjdf0/edit?usp=sharing) | [PDF-də bax](Elicitation%20%26%20Communication%20Plan.pdf)           |
-| Requirements & Traceability Matrix | [Google Sheets-də aç](https://docs.google.com/spreadsheets/d/154nLduUGugK5EDZolFAqD4EEjvxUmKNOovvY8wq8F7g/edit?usp=sharing) | [PDF-də bax](Requirements%20Traceability%20Matrix.pdf)               |
-| Current AS-IS & Future TO-BE       | [Google Docs-da aç](https://docs.google.com/document/d/1w_yTvtuZTs7NiVZ9wtQnXLjC6UEiKtDIkyEYZHXJ4Ec/edit?usp=sharing)       | [PDF-də bax](Current%20%28AS-IS%29%20%26%20Future%20%28TO-BE%29.pdf) |
-| Current & Future State Flow        | [Lucidchart-da aç](https://lucid.app/lucidchart/a23e0dca-d11d-4dbf-a129-ece9b4402da9/view)                                  | [Şəkilə bax](Current%20vs.%20Future%20State.png)                     |
-| Gap Analysis                       | [Google Docs-da aç](https://docs.google.com/document/d/1VpKm00FRRXGfYzLqa50KqN752f3t56T-E0BEtGwn1Ho/edit?usp=sharing)       | [PDF-də bax](Gap%20Analysis.pdf)                                     |
+### Həllin əsas xüsusiyyətləri
 
-### Məhsul tələbləri
+- **Vahid platforma** - Bütün sorğular bir yerdə idarə olunur
+- **Avtomatlaşdırılmış iş axınları** - Daxili proseslər avtomatlaşdırılır
+- **Real vaxtda görünürlük** - Sorğunun hər mərhələsi izlənilir
+- **SLA monitorinqi** - Tapşırıq müddətlərinə avtomatik nəzarət olunur
+- **Performans hesabatları** - KPI-lər real vaxtda izlənilir
+- **Bildirişlər və eskalasiya** - Avtomatik xatırlatmalar və eskalasiya
 
-| Sənəd                                    | Orijinal versiya                                                                                                                                                                                                           | PDF versiyası                                               |
-| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| User Stories & Acceptance Criteria       | [Google Docs-da aç](https://docs.google.com/document/d/1Mup-m4dvQ-IEn5T28pIjEU3CPKco08hC57G8ZRiu9Qw/edit?usp=sharing) | [PDF-də bax](User%20Stories%20%26%20Acceptance%20Criteria.pdf) |
-| Context Diagram                          | Hazırlanır                                                                                                                                                                                                                 | PDF əlavə ediləcək                                             |
-| Data Flow Diagram                        | Hazırlanır                                                                                                                                                                                                                 | PDF əlavə ediləcək                                             |
-| User Flow                                | Hazırlanır                                                                                                                                                                                                                 | PDF əlavə ediləcək                                             |
-| Use Case Diagram                         | Hazırlanır                                                                                                                                                                                                                 | PDF əlavə ediləcək                                             |
-| BPMN Diagram                             | Hazırlanır                                                                                                                                                                                                                 | PDF əlavə ediləcək                                             |
-| Functional & Non-Functional Requirements | Hazırlanır                                                                                                                                                                                                                 | PDF əlavə ediləcək                                             |
+## Layihənin əhatə dairəsi (Scope)
 
-### Məhsulun idarə edilməsi
+### Daxil edilənlər (In Scope)
 
-| Sənəd                                  | Orijinal versiya                   | PDF versiyası      |
-| -------------------------------------- | ---------------------------------- | ------------------ |
-| Product Backlog                       | Hazırlanır | PDF əlavə ediləcək |
-| MVP and Prioritization | Hazırlanır | PDF əlavə ediləcək |
-| KPIs & Metrics              | Hazırlanır | PDF əlavə ediləcək |
+Daxili sorğuların yaradılması, idarə olunması və izlənilməsi  
+İş axınlarının standartlaşdırılması  
+Avtomatik yönləndirmə və prioritetləşdirmə  
+SLA idarəetməsi  
+Performans hesabatları və dashboard  
+Bildirişlər sistemi  
 
+### Əhatə dairəsindən kənarda qalanlar (Out of Scope)
 
+Xarici sistemlərlə inteqrasiya (e-poçt, CRM və s.)  
+Mobil tətbiq  
+Müştəri xidməti portalı (ilk mərhələdə)  
+Xərclərin mühasibatlıq sisteminə inteqrasiyası  
 
-**Hazırlayan:** Nazrin Askarzada
-**Rol:** Product Owner / Business Analyst
+## Maraqlı tərəflər (Stakeholders)
 
-> Bu layihə portfolio məqsədilə hazırlanmış konseptual case study-dir.
+### Əsas maraqlı tərəflər
 
+| Maraqlı tərəf | Rolu | Əhəmiyyəti |
+| --- | --- | --- |
+| **İşçilər (End Users)** | Sorğu yaradanlar | 🔴 Çox yüksək |
+| **Departament nümayəndələri** | Sorğuları qəbul edənlər | 🔴 Çox yüksək |
+| **İnsan resursları** | Sorğu xidməti provayderi | 🟠 Yüksək |
+| **İT şöbəsi** | Sistem idarəçisi | 🟠 Yüksək |
+| **Rəhbərlik** | Qərar verənlər | 🟠 Yüksək |
+| **Audit və uyğunluq** | Tənzimləyici | 🟡 Orta |
+
+## Əsas tamamlanmış işlər (Key Deliverables)
+
+| Mərhələ | Sənəd | Status |
+| --- | --- | ---: |
+| Başlanğıc | [Biznes problemi və məqsədlər](./Business%20Problem%20%26%20Objectives.pdf) 
+| Başlanğıc | [Maraqlı tərəflərin müəyyənləşdirilməsi və təhlili](./Stakeholder%20Identification%20%26%20Analysis.pdf) 
+| Başlanğıc | [Maraqlı tərəflərin xəritəsi](./MIS%20Stakeholder%20Map.png) 
+| Başlanğıc | [Risk və fərziyyələr reyestri](./Risk%20%26%20Assumption%20Register.pdf) 
+| Planlaşdırma | [Tələblərin toplanması və kommunikasiya planı](./Elicitation%20%26%20Communication%20Plan.pdf) 
+| Planlaşdırma | [Tələblərin izlənilməsi matrisi](./Requirements%20Traceability%20Matrix.pdf) 
+| Proses analizi | [Cari və gələcək vəziyyətin təhlili](./Current%20%28AS-IS%29%20%26%20Future%20%28TO-BE%29.pdf) 
+| Proses analizi | [Cari və gələcək proseslərin vizual modeli](./Current%20vs.%20Future%20State.png) 
+| Proses analizi | [Gap Analysis](./Gap%20Analysis.pdf) 
+| Məhsul tələbləri | [User Stories və Acceptance Criteria](./User%20Stories%20%26%20Acceptance%20Criteria.pdf) 
+
+## Business Analysis-in həyat dövrü
+
+### Mərhələlər və əsas fəaliyyətlər
+
+| Mərhələ | Əsas fəaliyyətlər | Müddət |
+| --- | --- | ---: |
+| **Başlanğıc (Initiation)** | Problemin və maraqlı tərəflərin müəyyənləşdirilməsi, yüksək səviyyəli tələblərin hazırlanması | 2–3 həftə |
+| **Planlaşdırma və analiz** | Tələblərin toplanması, AS-IS və TO-BE analizi, boşluqların müəyyənləşdirilməsi | 3–4 həftə |
+| **Həll dizaynı** | Funksional spesifikasiyalar, sistem arxitekturası, User Stories və Acceptance Criteria | 4–5 həftə |
+| **Tətbiq** | İnkişaf komandası ilə əməkdaşlıq, dəyişiklik sorğularının idarə olunması və tələblərin dəqiqləşdirilməsi | 8–12 həftə |
+| **Sınaq** | UAT planının hazırlanması, test hallarının yoxlanılması və xətaların izlənilməsi | 2–3 həftə |
+| **Qiymətləndirmə** | KPI-lərin ölçülməsi, nəticələrin qiymətləndirilməsi və öyrənilmiş dərslər | 1–2 həftə |
