@@ -30,7 +30,7 @@ Hazırda daxili xidmət sorğuları **qeyri-strukturlaşdırılmış** şəkild�
 
 | Problem | Təsir | Ciddilik |
 | --- | --- | --- |
-| **Gecikmələr** | Sorğuların emalı 5–7 iş günü çəkir | 🔴 Yüksək |
+| **Gecikmələr** | Sorğuların emalı 5-7 iş günü çəkir | 🔴 Yüksək |
 | **Şəffaflığın olmaması** | Müştərilər sorğunun statusunu bilmir | 🔴 Yüksək |
 | **Əl ilə görülən işlər** | Vaxt aparan, səhvə meyilli əməliyyatlar | 🟠 Orta-yüksək |
 | **Məsuliyyət çatışmazlığı** | Kimin nə etdiyi aydın deyil | 🟠 Orta-yüksək |
@@ -42,7 +42,7 @@ Hazırda daxili xidmət sorğuları **qeyri-strukturlaşdırılmış** şəkild�
 
 | Məqsəd | Cari vəziyyət | Hədəf |
 | --- | ---: | ---: |
-| Sorğuların emal müddətini azaltmaq | 5–7 gün | 30% azalma (3–4 gün) |
+| Sorğuların emal müddətini azaltmaq | 5-7 gün | 30% azalma (3–4 gün) |
 | Sorğu statusunun izlənilə bilməsini təmin etmək | 40% | 100% |
 | Sorğuları SLA daxilində tamamlamaq | 60% | 90% |
 | Əl ilə görülən əməliyyatların payını azaltmaq | — | 50% azalma |
