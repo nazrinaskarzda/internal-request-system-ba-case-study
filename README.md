@@ -100,12 +100,6 @@ Xərclərin mühasibatlıq sisteminə inteqrasiyası
 | **Audit və uyğunluq** | Tənzimləyici | 🟡 Orta |
 
 ## Əsas tamamlanmış işlər (Key Deliverables)
-### Ümumi sənədlər
-
-| Sənəd | Fayl |
-| --- | --- |
-| Rəhbərlər üçün xülasə | [](./BA_EXECUTIVE_SUMMARY_AZ.md) |
-| Biznes Analizi Həyat Dövrü Metodologiyası | [](./BA_LIFECYCLE_METHODOLOGY_AZ.md) |
 
 ## Layihə sənədləri
 
