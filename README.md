@@ -105,17 +105,19 @@ Xərclərin mühasibatlıq sisteminə inteqrasiyası
 
 | Mərhələ | Sənəd |
 | --- | --- |
-| Başlanğıc | [Business Problem & Objectives](./Business%20Problem%20%26%20Objectives.pdf) |
-| Başlanğıc | [Stakeholder Identification & Analysis](./Stakeholder%20Identification%20%26%20Analysis.pdf) |
-| Başlanğıc | [MIS Stakeholder Map](./MIS%20Stakeholder%20Map.png) |
-| Başlanğıc | [Risk & Assumption Register](./Risk%20%26%20Assumption%20Register.pdf) |
-| Analiz və planlaşdırma | [Elicitation & Communication Plan](./Elicitation%20%26%20Communication%20Plan.pdf) |
-| Analiz və planlaşdırma | [Requirements Traceability Matrix](./Requirements%20Traceability%20Matrix.pdf) |
-| Analiz və planlaşdırma | [Current (AS-IS) & Future (TO-BE)](./Current%20%28AS-IS%29%20%26%20Future%20%28TO-BE%29.pdf) |
-| Analiz və planlaşdırma | [Current vs. Future State Modelling](./Current%20vs.%20Future%20State.png) |
-| Analiz və planlaşdırma | [Gap Analysis](./Gap%20Analysis.pdf) |
-| Məhsul tələbləri | [User Stories & Acceptance Criteria](./User%20Stories%20%26%20Acceptance%20Criteria.pdf) |
-| Məhsul tələbləri | [Request Creation - Functional Specification](./Request%20Creation%20-%20Functional%20Specification.pdf) |
+| Başlanğıc | [Business Problem & Objectives](https://github.com/nazrinaskarzda/internal-request-system-ba-case-study/blob/main/Business%20Problem%20%26%20Objectives.pdf) |
+| Başlanğıc | [Stakeholder Identification & Analysis](https://github.com/nazrinaskarzda/internal-request-system-ba-case-study/blob/main/Stakeholder%20Identification%20%26%20Analysis.pdf) |
+| Başlanğıc | [MIS Stakeholder Map](https://github.com/nazrinaskarzda/internal-request-system-ba-case-study/blob/main/MIS%20Stakeholder%20Map.png) |
+| Başlanğıc | [Risk & Assumption Register](https://github.com/nazrinaskarzda/internal-request-system-ba-case-study/blob/main/Risk%20%26%20Assumption%20Register.pdf) |
+| Analiz və planlaşdırma | [Elicitation & Communication Plan](https://github.com/nazrinaskarzda/internal-request-system-ba-case-study/blob/main/Elicitation%20%26%20Communication%20Plan.pdf) |
+| Analiz və planlaşdırma | [Requirements Traceability Matrix](https://github.com/nazrinaskarzda/internal-request-system-ba-case-study/blob/main/Requirements%20Traceability%20Matrix.pdf) |
+| Analiz və planlaşdırma | [Current (AS-IS) & Future (TO-BE)](https://github.com/nazrinaskarzda/internal-request-system-ba-case-study/blob/main/Current%20%28AS-IS%29%20%26%20Future%20%28TO-BE%29.pdf) |
+| Analiz və planlaşdırma | [Current vs. Future State Modelling](https://github.com/nazrinaskarzda/internal-request-system-ba-case-study/blob/main/Current%20vs.%20Future%20State.png) |
+| Analiz və planlaşdırma | [Gap Analysis](https://github.com/nazrinaskarzda/internal-request-system-ba-case-study/blob/main/Gap%20Analysis.pdf) |
+| Məhsul tələbləri | [User Stories & Acceptance Criteria](https://github.com/nazrinaskarzda/internal-request-system-ba-case-study/blob/main/User%20Stories%20%26%20Acceptance%20Criteria.pdf) |
+| Məhsul tələbləri | [Request Creation - Functional Specification](https://github.com/nazrinaskarzda/internal-request-system-ba-case-study/blob/main/Request%20Creation%20-%20Functional%20Specification.pdf) |
+| Məlumatların modelləşdirilməsi | [Data Dictionary Overview](https://github.com/nazrinaskarzda/internal-request-system-ba-case-study/blob/main/Data%20Dictionary%20Overview.pdf) |
+| Məlumatların modelləşdirilməsi | [Data Dictionary](https://github.com/nazrinaskarzda/internal-request-system-ba-case-study/blob/main/Data%20Dictionary%20-%20Data%20Dictionary.pdf) |
 
 ## Business Analysis-in həyat dövrü
 
