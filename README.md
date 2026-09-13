@@ -105,16 +105,17 @@ Xərclərin mühasibatlıq sisteminə inteqrasiyası
 
 | Mərhələ | Sənəd |
 | --- | --- |
-| Başlanğıc | [Biznes problemi və məqsədlər](./Business%20Problem%20%26%20Objectives.pdf) |
-| Başlanğıc | [Maraqlı tərəflərin müəyyənləşdirilməsi və təhlili](./Stakeholder%20Identification%20%26%20Analysis.pdf) |
-| Başlanğıc | [Maraqlı tərəflərin xəritəsi](./MIS%20Stakeholder%20Map.png) |
-| Başlanğıc | [Risk və fərziyyələr reyestri](./Risk%20%26%20Assumption%20Register.pdf) |
-| Analiz və planlaşdırma | [Tələblərin toplanması və kommunikasiya planı](./Elicitation%20%26%20Communication%20Plan.pdf) |
-| Analiz və planlaşdırma | [Tələblərin izlənilməsi matrisi](./Requirements%20Traceability%20Matrix.pdf) |
-| Analiz və planlaşdırma | [Cari və gələcək vəziyyət](./Current%20%28AS-IS%29%20%26%20Future%20%28TO-BE%29.pdf) |
-| Analiz və planlaşdırma | [Cari və gələcək proses xəritəsi](./Current%20vs.%20Future%20State.png) |
-| Analiz və planlaşdırma | [Boşluq analizi](./Gap%20Analysis.pdf) |
-| Məhsul tələbləri | [İstifadəçi hekayələri və qəbul meyarları](./User%20Stories%20%26%20Acceptance%20Criteria.pdf) |
+| Başlanğıc | [Business Problem & Objectives](./Business%20Problem%20%26%20Objectives.pdf) |
+| Başlanğıc | [Stakeholder Identification & Analysis](./Stakeholder%20Identification%20%26%20Analysis.pdf) |
+| Başlanğıc | [MIS Stakeholder Map](./MIS%20Stakeholder%20Map.png) |
+| Başlanğıc | [Risk & Assumption Register](./Risk%20%26%20Assumption%20Register.pdf) |
+| Analiz və planlaşdırma | [Elicitation & Communication Plan](./Elicitation%20%26%20Communication%20Plan.pdf) |
+| Analiz və planlaşdırma | [Requirements Traceability Matrix](./Requirements%20Traceability%20Matrix.pdf) |
+| Analiz və planlaşdırma | [Current (AS-IS) & Future (TO-BE)](./Current%20%28AS-IS%29%20%26%20Future%20%28TO-BE%29.pdf) |
+| Analiz və planlaşdırma | [Current vs. Future State Modelling](./Current%20vs.%20Future%20State.png) |
+| Analiz və planlaşdırma | [Gap Analysis](./Gap%20Analysis.pdf) |
+| Məhsul tələbləri | [User Stories & Acceptance Criteria](./User%20Stories%20%26%20Acceptance%20Criteria.pdf) |
+| Məhsul tələbləri | [Request Creation - Functional Specification](./Request%20Creation%20-%20Functional%20Specification.pdf) |
 
 ## Business Analysis-in həyat dövrü
 
