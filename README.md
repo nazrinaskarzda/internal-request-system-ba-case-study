@@ -114,7 +114,7 @@ Xərclərin mühasibatlıq sisteminə inteqrasiyası
 | Analiz və planlaşdırma | [Current (AS-IS) & Future (TO-BE)](https://docs.google.com/document/d/1w_yTvtuZTs7NiVZ9wtQnXLjC6UEiKtDIkyEYZHXJ4Ec/edit?usp=drivesdk) |
 | Analiz və planlaşdırma | [Current vs. Future State Modelling](https://docs.google.com/document/d/1w_yTvtuZTs7NiVZ9wtQnXLjC6UEiKtDIkyEYZHXJ4Ec/edit?usp=drivesdk) |
 | Analiz və planlaşdırma | [Gap Analysis](https://docs.google.com/document/d/1VpKm00FRRXGfYzLqa50KqN752f3t56T-E0BEtGwn1Ho/edit?usp=drivesdk) |
-| Məhsul tələbləri | [User pencils & Acceptance Criteria](https://docs.google.com/document/d/1Mup-m4dvQ-IEn5T28pIjEU3CPKco08hC57G8ZRiu9Qw/edit?usp=drivesdk) |
+| Məhsul tələbləri | [User stories & Acceptance Criteria](https://docs.google.com/document/d/1Mup-m4dvQ-IEn5T28pIjEU3CPKco08hC57G8ZRiu9Qw/edit?usp=drivesdk) |
 | Məhsul tələbləri | [Request Creation - Functional Specification](https://docs.google.com/document/d/14Wn3iZ9D8AhY0x1wI1bv_ogWl7U2JYA6rnx8iIN2uUA/edit?usp=drivesdk) |
 | Məlumatların modelləşdirilməsi | [Data Dictionary Overview](https://docs.google.com/document/d/1BwRAsoK0T3DBYsKBtIChU3EMjj5zqS2GDDWSOZN7wzs/edit?usp=drivesdk) |
 | Məlumatların modelləşdirilməsi | [Data Dictionary](https://docs.google.com/spreadsheets/d/1HE84l3joOsPNKrL-9W_Ej8OTIH0cPS36Io9k1_DnHv8/edit?usp=drivesdk) |
